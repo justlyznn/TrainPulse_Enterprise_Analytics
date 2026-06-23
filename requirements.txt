@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+SQLAlchemy
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pytest
+Faker
+jupyter
+joblib
+plotly
+python-multipart
